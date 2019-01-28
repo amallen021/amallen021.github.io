@@ -1,24 +1,22 @@
 h1{
-  font-size: 18px;
+  font-size: 22px;
   font-style: bold;
   text-align: center;
 }
-h3{
-  font-size: 15px;
-  font-family:verdana;
-}
-h2,h4,h5{
-  font-size: 15px;
+h2,h4,h5,h3{
+  font-size: 20px;
   font-family: verdana;
+  text-align: center;
  }
 li{
-  font-size: 10px;
+  font-size: 15px;
   font-family: arial;
   list-style-type: square;
 }
 p{
   font-size: 15px;
-  font-family: verdana,san-serif;
+  font-family: san-serif;
+  text-align: center;
 }
 .summary{
   text-decoration: underline;
