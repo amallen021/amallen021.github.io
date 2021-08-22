@@ -3,10 +3,7 @@ h1{
   font-style: bold;
   text-align: center;
 }
-h2,h4,h5,h3{
-  font-size: 20px;
-  font-family: verdana;
-  text-align: center;
+
  }
 li{
   font-size: 15px;
@@ -14,11 +11,27 @@ li{
   list-style-type: square,center;
   text-align: center;
 }
+
+ul{
+  text-align: center;
+  font size: 15px;
+}
 p{
   font-size: 15px;
   font-family: san-serif;
   text-align: center;
 }
-.summary{
-  text-decoration: underline;
+
+body{
+  background-color: #dcdcdc
+  color: #000000
+  font-family: verdana, sans-serif
+  Margin: 15% 30%;
+}
+
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 2px solid #000000;
+  border-bottom: 2px solid #000000  
 }
