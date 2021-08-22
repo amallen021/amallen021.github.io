@@ -9,11 +9,9 @@ li{
   font-size: 15px;
   font-family: arial;
   list-style-type: square,center;
-  text-align: center;
 }
 
 ul{
-  text-align: center;
   font size: 15px;
 }
 p{
@@ -34,4 +32,10 @@ body{
   text-transform: uppercase;
   border-top: 2px solid #000000;
   border-bottom: 2px solid #000000  
+}
+
+.img src{
+  height: 200px;
+  width: 200px;
+  
 }
