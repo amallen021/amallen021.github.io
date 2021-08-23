@@ -38,6 +38,8 @@ body{
 }
 
 img{
-  max-width: 100%;
-  img-align: center;
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  vertical-align: middle;
 }
