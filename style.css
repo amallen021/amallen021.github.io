@@ -19,6 +19,12 @@ p{
   font-family: san-serif;
   text-align: center;
 }
+h7{
+  font-size: 20px;
+}
+h8{
+  font-size: 20px;
+}
 
 body{
   background-color: #dcdcdc
@@ -35,7 +41,7 @@ body{
 }
 
 img{
-  height: 100px;
-  width: 100px;
-  align: center;
+  height: 50px;
+  width: 50px;
+  text-align: center;
 }
