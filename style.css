@@ -34,8 +34,8 @@ body{
   border-bottom: 2px solid #000000  
 }
 
-.img src{
-  height: 200px;
-  width: 200px;
-  
+img{
+  height: 100px;
+  width: 100px;
+  align: center;
 }
