@@ -1,16 +1,13 @@
 h1{
-  font-size: 22px;
+  font-size: 25px;
   font-style: bold;
   text-align: center;
 }
-
- }
 li{
   font-size: 15px;
   font-family: arial;
   list-style-type: square;
 }
-
 ul{
   font size: 15px;
 }
